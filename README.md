@@ -4,8 +4,8 @@
 1. Go (I have v1.10 installed)
 
 ### To use:
-1. Download the web_scraper.go file
-2. From the command line, navigate into the directory where you downloaded the file
+1. Clone this repository
+2. From the command line, navigate into the repo.
 3. Run `go build web-scraper.go`
 4. To execute the program, run `./web-scraper -url={url of job posting urls}`
 5. When prompted, view the results at http://localhost:8080/
